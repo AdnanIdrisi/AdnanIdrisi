@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C,C++, Python, HTML, CSS**
+- 💬 Ask me about **C,C++, Python, HTML, CSS, Javascript**
 
 - 📫 How to reach me **mohammadadnanfaiz@gmail.com**
 
