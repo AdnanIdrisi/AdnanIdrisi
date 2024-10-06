@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammad-adnan-a3b422257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammad Adnan" height="30" width="40" /></a>
-<a href="https://instagram.com/the_name_is_faizul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_name_is_faizul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adnan-idrisi-a3b422257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammad Adnan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_faizul_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_name_is_faizul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
